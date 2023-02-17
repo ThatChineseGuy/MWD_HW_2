@@ -1,0 +1,1 @@
+For some reason I couldn't display any of the code on the website, no matter what I've tried, if you don't mind helping me solve this problem within the code, but otherwise once that's fixed i believe the function are correctly done.
